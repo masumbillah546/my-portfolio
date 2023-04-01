@@ -1,7 +1,7 @@
 <?php 
-  include('header.php');
-  include('banner.php');
-  include('skills.php');
-  include('contact.php');
-  include('footer.php');
+  include('components/header.php');
+  include('components/banner.php');
+  include('components/skills.php');
+  include('components/contact.php');
+  include('components/footer.php');
 ?>
