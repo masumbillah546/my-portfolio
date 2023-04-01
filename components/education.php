@@ -1,6 +1,3 @@
-<?php 
-  include('../components/header.php')
-?>
 <div class="container-fluid">
   <div class="row">
     <div class="col-lg-12  edu">
@@ -26,6 +23,4 @@
     </div>
   </div>
 </div>
-<?php 
-  include('../components/footer.php')
-?>
+

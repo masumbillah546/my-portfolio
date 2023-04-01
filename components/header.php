@@ -21,10 +21,10 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="#profile">About</a></li>
+        <li><a href="#profile">About</a></li>
         <li><a href="#works">Skills</a></li>	        
-        <li><a href="../projects">PROJECTS</a></li>
-        <li><a href="../education">Education</a></li>
+        <li><a href="#projects">PROJECTS</a></li>
+        <li><a href="#education">Education</a></li>
         <li><a href="#form">Contact</a></li>	        
       </ul>
     </div>

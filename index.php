@@ -2,6 +2,8 @@
   include('components/header.php');
   include('components/banner.php');
   include('components/skills.php');
+  include('components/projects.php');
+  include('components/education.php');
   include('components/contact.php');
   include('components/footer.php');
 ?>

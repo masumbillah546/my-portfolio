@@ -1,6 +1,3 @@
-<?php 
-  include('../components/header.php')
-?>
 <div class="container jumbotron text-center">
   <h1 style="background-color: #18B6E3">One of my CSS3 Projects</h1><br>
   <div class="row">
@@ -11,6 +8,3 @@
     </div>
   </div>
 </div>
-<?php 
-  include('../components/footer.php')
-?> 	
