@@ -5,7 +5,7 @@
         <p> I want to <mark>make things</mark> that make a difference.</p>
     </div>
     <div class=" col-lg-4"><br><br><br><br><br>
-      <img class="img-responsive center-block img " src="../assets/images/hhh.png" height="" alt="Persion">
+      <img class="img-responsive center-block img " src="assets/images/hhh.png" height="" alt="Persion">
       <p style="font-size: 200%; color: white;">Masum Billah</p>
       <p style="line-height: 0; color: orange;font-size: 150%;">Frontend Developer</p><br><br>
     </div>
@@ -24,13 +24,13 @@
     </ol>
     <div class="carousel-inner"><!-- Wrapper for slides -->
       <div class="item active ">
-        <img src="../assets/images/c2.jpg" alt="Los Angeles" style="height: 500px; width: 100%;" >
+        <img src="assets/images/c2.jpg" alt="Los Angeles" style="height: 500px; width: 100%;" >
       </div>
       <div class="item">
-        <img src="../assets/images/c3.png" alt="Chicago" style="height: 500px; width: 100%;" >
+        <img src="assets/images/c3.png" alt="Chicago" style="height: 500px; width: 100%;" >
       </div>
       <div class="item">
-        <img src="../assets/images/c4.png" alt="New york" style="height: 500px; width: 100%;" >
+        <img src="assets/images/c4.png" alt="New york" style="height: 500px; width: 100%;" >
       </div>
     </div>
   </div>      

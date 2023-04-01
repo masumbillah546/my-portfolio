@@ -14,7 +14,7 @@
 				<input class="form-control" type="number" placeholder="input Your Phone Number"><br>
 
 				<label class="form-control-label" for=""><i class="fa fa-envelope-o" aria-hidden="true"></i> Address</label>
-				<input class="form-control" type="number" placeholder="input Your Address"><br>
+				<input class="form-control" type="text" placeholder="input Your Address"><br>
 
 				<label class="form-control-label" for=""><i class="fa fa-envelope-o" aria-hidden="true"></i> Message</label>
 				<textarea class="form-control" ></textarea><br>

@@ -3,7 +3,7 @@
   <div class="row">
     <div class="col-lg-12">
       <div class=" pro center-block">
-        <a href="https://masumbillah546.000webhostapp.com/" target="_blank"><img class="img-responsive "  src="../assets/images/cssp.jpg" alt=""></a>
+        <a href="https://masumbillah546.000webhostapp.com/" target="_blank"><img class="img-responsive "  src="assets/images/cssp.jpg" alt=""></a>
       </div>
     </div>
   </div>
