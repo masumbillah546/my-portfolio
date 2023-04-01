@@ -22,11 +22,11 @@
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
-        <li class="active"><a href="../index.php#profile">About</a></li>
-        <li><a href="../index.php#works">Skills</a></li>	        
-        <li><a href="../cssp.html">PROJECTS</a></li>
+        <li class="active"><a href="#profile">About</a></li>
+        <li><a href="#works">Skills</a></li>	        
+        <li><a href="../projects">PROJECTS</a></li>
         <li><a href="../education">Education</a></li>
-        <li><a href="../index.php#form">Contact</a></li>	        
+        <li><a href="#form">Contact</a></li>	        
       </ul>
     </div>
   </nav>
