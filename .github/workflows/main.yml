@@ -11,6 +11,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
-        server: files.000webhost.com/public_html
+        server: files.000webhost.com
         username: masum-billah
         password: ${{ secrets.ftp_password }}
